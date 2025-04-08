@@ -18,7 +18,7 @@ A sleek, dark-themed to-do list web app built using **HTML**, **CSS**, and **Jav
 
 **## 📸 Preview**
 
-![screenshot](#) <!-- Add screenshot link if available -->
+![screenshot](screenshot1.jpeg) <!-- Add screenshot link if available -->
 
 ---
 
@@ -31,6 +31,15 @@ A sleek, dark-themed to-do list web app built using **HTML**, **CSS**, and **Jav
 - 🔤 **Google Fonts (Material Symbols)** – Clean, modern action icons  
 
 ---
+
+---
+
+**## 📸 Demo**
+
+![Demo](Demo.gif) <!-- Add screenshot link if available -->
+
+---
+
 
 **## 📂 File Structure**
 
