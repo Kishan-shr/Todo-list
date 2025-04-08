@@ -1,3 +1,4 @@
+📝 Dark Mode To-Do List
 A sleek, dark-themed to-do list web app built using HTML, CSS, and JavaScript. It allows users to add, complete, edit, and delete tasks—with all your data saved directly in your browser using localStorage.
 
 🚀 Features
@@ -68,3 +69,7 @@ Open index.html in your favorite web browser.
  📅 Due dates and reminders
 
  🔍 Search/filter functionality
+
+    ## Author
+Developed with ❤️ by KISHAN SHARMA
+linkedin : https://www.linkedin.com/in/kishanshr/
